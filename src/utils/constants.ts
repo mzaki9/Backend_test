@@ -3,7 +3,7 @@ export const PEAK_PERIODS = [
   { label: 'Day', start: '12:00', end: '13:00' },
   { label: 'Evening', start: '16:45', end: '17:45' },
 ];
-
+const TEST = "test"
 export const MAX_CAPACIY = 6000;
 export const CAPACITY = 750;
 export const CYCLE_TIME = 120;
